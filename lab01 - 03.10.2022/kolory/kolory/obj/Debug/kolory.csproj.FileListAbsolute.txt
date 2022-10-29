@@ -1,0 +1,11 @@
+C:\Users\Fina\Desktop\kolory\kolory\bin\Debug\kolory.exe.config
+C:\Users\Fina\Desktop\kolory\kolory\bin\Debug\kolory.exe
+C:\Users\Fina\Desktop\kolory\kolory\bin\Debug\kolory.pdb
+C:\Users\Fina\Desktop\kolory\kolory\obj\Debug\kolory.csproj.AssemblyReference.cache
+C:\Users\Fina\Desktop\kolory\kolory\obj\Debug\kolory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fina\Desktop\kolory\kolory\obj\Debug\kolory.Form1.resources
+C:\Users\Fina\Desktop\kolory\kolory\obj\Debug\kolory.Properties.Resources.resources
+C:\Users\Fina\Desktop\kolory\kolory\obj\Debug\kolory.csproj.GenerateResource.cache
+C:\Users\Fina\Desktop\kolory\kolory\obj\Debug\kolory.csproj.CoreCompileInputs.cache
+C:\Users\Fina\Desktop\kolory\kolory\obj\Debug\kolory.exe
+C:\Users\Fina\Desktop\kolory\kolory\obj\Debug\kolory.pdb
