@@ -1,0 +1,11 @@
+C:\Users\srebr\Desktop\notatnik\notatnik\bin\Debug\notatnik.exe.config
+C:\Users\srebr\Desktop\notatnik\notatnik\bin\Debug\notatnik.exe
+C:\Users\srebr\Desktop\notatnik\notatnik\bin\Debug\notatnik.pdb
+C:\Users\srebr\Desktop\notatnik\notatnik\obj\Debug\notatnik.csproj.AssemblyReference.cache
+C:\Users\srebr\Desktop\notatnik\notatnik\obj\Debug\notatnik.csproj.SuggestedBindingRedirects.cache
+C:\Users\srebr\Desktop\notatnik\notatnik\obj\Debug\notatnik.Properties.Resources.resources
+C:\Users\srebr\Desktop\notatnik\notatnik\obj\Debug\notatnik.csproj.GenerateResource.cache
+C:\Users\srebr\Desktop\notatnik\notatnik\obj\Debug\notatnik.csproj.CoreCompileInputs.cache
+C:\Users\srebr\Desktop\notatnik\notatnik\obj\Debug\notatnik.exe
+C:\Users\srebr\Desktop\notatnik\notatnik\obj\Debug\notatnik.pdb
+C:\Users\srebr\Desktop\notatnik\notatnik\obj\Debug\notatnik.Notatnik.resources
